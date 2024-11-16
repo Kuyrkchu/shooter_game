@@ -1,5 +1,5 @@
 #Создай собственный Шутер!
-
+#амамамамамаммамамамамамамам ура додел этоооо чудо юдо
 from pygame import *
 from random import randint
 import time as t
